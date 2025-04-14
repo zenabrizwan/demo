@@ -1,2 +1,2 @@
 # cat-facial-analysis
-author-zenab rizwan
+author-Zenab Rizwan
